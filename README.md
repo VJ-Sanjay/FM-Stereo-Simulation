@@ -1,4 +1,4 @@
-# FM/RDS Transceiver Project
+# FM Transceiver Project
 
 ## Overview
 This project implements a **complete FM transmitter and receiver system** using GNU Radio Companion (GRC). It includes modulation, demodulation, filtering, and visualization of signals, along with RDS (Radio Data System) encoding and decoding.
