@@ -13,10 +13,10 @@ This project implements a **complete FM transmitter and receiver system** using 
 ```
 my-fm-rds-project/
 ├── flowgraphs/
-│   └── fm_rds_transceiver.grc       # Main GNU Radio flowgraph
+│   └── FM_RDS.grc                                         # Main GNU Radio flowgraph
 ├── data/
-│   └── audio_samples.wav            # Example audio input
-├── README.md                        # Project description
+│   └── Thalapathy_Kacheri_-_Anirudh_Ravichander.mp3       # Example audio input
+├── README.md                                              # Project description
 └── .gitignore
 ```
 
@@ -49,5 +49,3 @@ gnuradio-companion flowgraphs/fm_rds_transceiver.grc
 - **Frequency Sink** – FFT-based spectrum analysis
 - **Waterfall Sink** – Frequency vs. time visualization
 
-## License
-This project is released under the **MIT License**. You are free to modify, use, and redistribute for educational or experimental purposes.
